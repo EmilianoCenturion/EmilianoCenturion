@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hola, soy Emiliano
 
-<!--
-**EmilianoCenturion/EmilianoCenturion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador web en formación
+🚀 Apasionado por crear proyectos reales y seguir aprendiendo
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que uso
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="40" />
+</p>
+
+---
+
+## 📚 Actualmente aprendiendo
+
+* Mejoras en backend con PHP
+* Buenas prácticas y arquitectura
+* Optimización de proyectos web
+
+---
+
+## 📂 Proyecto destacado
+
+🏡 **Bienes Raíces 2026**
+Proyecto web inmobiliario desarrollado como práctica profesional.
+
+🔧 Tecnologías:
+
+* PHP
+* MySQL
+* JavaScript
+* SCSS
+* Gulp
+
+---
+
+## 📊 Mis estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO\&layout=compact\&theme=radical)
+
+---
+
+## 📫 Contacto
+
+* 📧 Tu email acá
+* 💼 LinkedIn (opcional)
+
+---
+
+✨ Siempre buscando mejorar y aprender algo nuevo
