@@ -9,7 +9,8 @@
 
 <p align="left">
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c5cbe7f4-3f7b-4feb-8526-93a21ee6a662" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/55d6562b-7d47-4220-9e31-2ea29be83c1d" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="40" />
