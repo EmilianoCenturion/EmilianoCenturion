@@ -10,7 +10,7 @@
 
 ## 🚀 Tecnologías
 <p align="center">
-  <img width="900" height="900" src="https://skillicons.dev/icons?i=php,js,python,nodejs,html,gulp,sass,mongodb,mysql,css,git,github,npm,vscode" />
+  <img width="800" height="50" src="https://skillicons.dev/icons?i=php,js,python,nodejs,html,gulp,sass,mongodb,mysql,css,git,github,npm,vscode" />
 </p>
 
 ---
