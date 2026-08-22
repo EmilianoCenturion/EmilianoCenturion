@@ -10,7 +10,7 @@
 ## 🚀 Tecnologías
 
 <p align="center">
-  <img width="880" src="https://skillicons.dev/icons?i=php,laravel,js,py,mysql,sql,mongodb,html,css,sass,git,github,vscode,npm,gulp" />
+  <img width="880" src="https://skillicons.dev/icons?i=php,laravel,js,py,mysql,mongodb,html,css,sass,git,github,vscode,npm,gulp" />
 </p>
 
 ---
