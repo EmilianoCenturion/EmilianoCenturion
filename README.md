@@ -43,7 +43,7 @@ Sistema web desarrollado por iniciativa propia para automatizar el registro diar
 
 **Stack:** PHP · Laravel (Eloquent, Blade) · MySQL
 
-👉 [github.com/EmilianoCenturion/Control-tramites-laravel]https://github.com/EmilianoCenturion/Control-tramites-laravel-
+👉 [github.com/EmilianoCenturion/Control-tramites-laravel](https://github.com/EmilianoCenturion/Control-tramites-laravel-)
 
 ---
 
